@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=180&section=header&text=Ashborn&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20·%20Laravel%20%2B%20Vue&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=180&section=header&text=JUNSY&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20·%20Laravel%20%2B%20Vue&descAlignY=58&descSize=16" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Backend+architecture+%26+CRUD+systems;Laravel+%2B+Vue+%7C+regulation-driven+logic;Python+automation+%26+desktop+tooling)](https://git.io/typing-svg)
 
@@ -66,8 +66,8 @@ I build backend systems for business-critical applications — currently focused
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/junsy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmanuelrestrepo96@gmail.com)
 
 </div>
 
