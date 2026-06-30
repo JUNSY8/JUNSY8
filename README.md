@@ -51,8 +51,8 @@ I build backend systems for business-critical applications — currently focused
 
 <p align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ashborn8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashborn8&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=JUNSY8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JUNSY8&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
 
 </p>
 
@@ -79,8 +79,8 @@ I build backend systems for business-critical applications — currently focused
 
 </p>
 
-<p align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=90&section=footer" />
 
-</p>
+</div>
