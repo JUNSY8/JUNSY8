@@ -60,13 +60,12 @@ I build backend systems for business-critical applications — currently focused
 
 ## Featured Projects
 
-> Reemplaza con tus 3 repos más fuertes — descripción tipo changelog, no adjetivos.
 
 | Project | Description |
 |---|---|
-| **[project-name](https://github.com/ashborn8/repo)** | REST API for [X] with role-based access control and automated tests |
-| **[project-name](https://github.com/ashborn8/repo)** | CRUD module generator for catalog/master tables in Laravel, used across N modules |
-| **[project-name](https://github.com/ashborn8/repo)** | Selenium-based automation tool with configurable strategies and a Tkinter GUI |
+| **[project-name](https://github.com/junsy8/repo)** | REST API for [X] with role-based access control and automated tests |
+| **[project-name](https://github.com/junsy8/repo)** | CRUD module generator for catalog/master tables in Laravel, used across N modules |
+| **[project-name](https://github.com/junsy8/botbet)** | Selenium-based automation tool with configurable strategies and a Tkinter GUI |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:10B981&height=3" />
 
