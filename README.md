@@ -67,7 +67,7 @@ I build backend systems for business-critical applications — currently focused
 <h3 align="center">Let's Connect</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/your-profile"><img src="https://www.linkedin.com/in/junsy/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/junsy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juanmanuelrestrepo96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
