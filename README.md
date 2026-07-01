@@ -52,8 +52,6 @@ I build backend systems for business-critical applications — currently focused
 
 ## Featured Projects
 
-> Reemplaza con tus 3 repos más fuertes — descripción tipo changelog, no adjetivos.
-
 <p align="center">
 
 | Project | Description |
