@@ -56,7 +56,7 @@ I build backend systems for business-critical applications — currently focused
 
 | Project | Description |
 |---|---|
-| **[project-name](https://github.com/JUNSY8/repo)** | REST API for [X] with role-based access control and automated tests |
+| **[LiBooks](https://github.com/JUNSY8/LiBooks)** | Desktop PDF library manager (PyQt5 + SQLAlchemy/PostgreSQL) with integrated viewer, reading-progress tracking, and note-taking across book collections |
 | **[project-name](https://github.com/JUNSY8/repo)** | CRUD module generator for catalog/master tables in Laravel, used across N modules |
 | **[project-name](https://github.com/JUNSY8/repo)** | Selenium-based automation tool with configurable strategies and a Tkinter GUI |
 
