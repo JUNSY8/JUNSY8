@@ -44,8 +44,8 @@ I build backend systems for business-critical applications — currently focused
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=JUNSY8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=jupyter notebook" width="48%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JUNSY8&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter notebook" width="40%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=JUNSY8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JUNSY8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" width="40%" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4A0404,100:8B0000&height=3" />
@@ -54,21 +54,23 @@ I build backend systems for business-critical applications — currently focused
 
 > Reemplaza con tus 3 repos más fuertes — descripción tipo changelog, no adjetivos.
 
+<p align="center">
+
 | Project | Description |
 |---|---|
 | **[project-name](https://github.com/JUNSY8/repo)** | REST API for [X] with role-based access control and automated tests |
 | **[project-name](https://github.com/JUNSY8/repo)** | CRUD module generator for catalog/master tables in Laravel, used across N modules |
 | **[project-name](https://github.com/JUNSY8/repo)** | Selenium-based automation tool with configurable strategies and a Tkinter GUI |
 
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:4A0404&height=3" />
 
+<h3 align="center">Let's Connect</h3>
+
 <p align="center">
-
-### Let's Connect
-
 <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 </p>
 
 <p align="center">
